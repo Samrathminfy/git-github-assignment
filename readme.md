@@ -60,8 +60,8 @@ git diff HEAD~1 HEAD
 ---
 
 ## 🖼️ Pull Request Screenshot
-![Pull Request Merge](pr-merge-screenshot.png)
-
+![Pull Request Merge Dialogue](pr_request.png)
+![Pull Request Comparison](pr_comparison.png)
 ---
 
 ## 📌 Notes
