@@ -3,4 +3,5 @@ It contains a few lines of sample text.
 Git is a VCS.
 GitHub is a hosting service for Git repositories.
 This line is for demonstration purposes.
+Adding more detail about Git.
 @samrath
