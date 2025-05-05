@@ -1,6 +1,6 @@
 # Basic Git Workflow Assignment
 
-# Easy
+# Assignment - 1 (Easy)
 ## 📁 Repository Structure
 - `assignment.txt`: The main text file used for demonstrating Git.
 - `.git/`: Hidden directory containing Git data.
