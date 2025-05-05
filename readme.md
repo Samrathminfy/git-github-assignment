@@ -34,10 +34,9 @@ Run this command to view the most recent change:
 ```bash
 git log --oneline
 git diff HEAD~1 HEAD
-
+```
 
 ---
-
 # ✅ Assignment - 2 Summary (GitHub Basics & Collaboration)
 
 ## 🌐 GitHub Repository Link
